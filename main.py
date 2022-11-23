@@ -4,7 +4,6 @@ import json
 
 
 my_secret = os.environ['TOKEN']
-
 NUMBER_OF_POSTS_TO_GET = 1
 
 # Disabled to prevent reaching API-calls limit
@@ -12,8 +11,11 @@ NUMBER_OF_POSTS_TO_GET = 1
 
 get_response = requests.get(f'https://api.vk.com/method/wall.get?domain=vokki_group&count={NUMBER_OF_POSTS_TO_GET}&filter=owner&access_token={my_secret}&v=5.131')
 post_text = get_response.json()['response']['items'][0]['text']
-print(post_text)
-# Save text
+
+# print(post_text)
+
+
+# Save post text to a text file
 
 with open("response.txt", "w") as file:
     # response = get_response.text
@@ -25,24 +27,25 @@ with open("response.txt", "w") as file:
 
 # Save JSON
 
-# with open('data.json', 'w') as file:
-#     # data = json.load(file)
-#     # print(data['response']['items'][0]['text'])
-#     # data2 = data['response']['items'][0]['text']
-#     json_string = json.dumps(post_text, indent=2, ensure_ascii=False)
-#     print(json_string)
-
-# print(x)
-# x.json()
+data = get_response.json()
+with open('data2.json', 'w') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
+    # post_text = data['response']['items'][0]['text']
 
 
 
+# Save image
 
-# def write_json(data):
-#     with open('data.json', 'w') as file:
-#         json.dump(data, file, indent=2, ensure_ascii=False)
+# Look for an image URL
 
-# write_json(x.json())
+print(data['response']['items'][0]['copy_history'][0]['attachments'][0])
+# response2 = requests.get("https://i.imgur.com/ExdKOOz.png")
+
+# with open("sample_image.png", "wb") as file:
+#     file.write(response2.content)
+
+
+
 
 
 
