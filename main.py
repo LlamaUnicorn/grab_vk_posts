@@ -38,7 +38,24 @@ with open('data2.json', 'w') as f:
 
 # Look for an image URL
 
-print(data['response']['items'][0]['copy_history'][0]['attachments'][0])
+# Check if photo or album exists in JSON
+
+JSON_check = 'data2.json'
+with open(JSON_check, 'r') as f:
+    if "photo" in JSON_check:
+        print('photo exists')
+    else:
+        print('photo doesn\'t exist')
+    json_data = json.load(f)
+    # print(json_data)
+
+print(data['response']['items'][0]['attachments'][0]['photo']['sizes'])
+sizes = data['response']['items'][0]['attachments'][0]['photo']['sizes']
+
+# if 'type'
+# worked for albums, didn't for photos
+
+# print(data['response']['items'][0]['copy_history'][0]['attachments'][0])
 # response2 = requests.get("https://i.imgur.com/ExdKOOz.png")
 
 # with open("sample_image.png", "wb") as file:
