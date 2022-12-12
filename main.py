@@ -5,11 +5,12 @@ import json
 
 my_secret = os.environ['TOKEN']
 NUMBER_OF_POSTS_TO_GET = 1
+OFFSET = 1
 
 # Disabled to prevent reaching API-calls limit
 # Uncomment when it's finished
 
-get_response = requests.get(f'https://api.vk.com/method/wall.get?domain=vokki_group&count={NUMBER_OF_POSTS_TO_GET}&filter=owner&access_token={my_secret}&v=5.131')
+get_response = requests.get(f'https://api.vk.com/method/wall.get?domain=vokki_group&count={NUMBER_OF_POSTS_TO_GET}&offset={OFFSET}&filter=owner&access_token={my_secret}&v=5.131')
 post_text = get_response.json()['response']['items'][0]['text']
 
 # print(post_text)
@@ -51,23 +52,29 @@ with open(JSON_check, 'r') as f:
 
 print(data['response']['items'][0]['attachments'][0]['photo']['sizes'])
 sizes = data['response']['items'][0]['attachments'][0]['photo']['sizes']
+print('-'*10)
+print(sizes)
+print(type(sizes))
 
+# Get url of the biggest resolution image
+final_url_dict = next((item for item in sizes if item["type"] == "z"), None)
+print(final_url_dict)
+final_url = final_url_dict['url']
+print(final_url)
+# Get index
+# next((i for i, item in enumerate(sizes) if item["type"] == "x"), None)
 # if 'type'
 # worked for albums, didn't for photos
 
 # print(data['response']['items'][0]['copy_history'][0]['attachments'][0])
-# response2 = requests.get("https://i.imgur.com/ExdKOOz.png")
 
-# with open("sample_image.png", "wb") as file:
-#     file.write(response2.content)
+# Download image
+response3 = requests.get(final_url)
 
-
-
-
+with open("sample_image3.png", "wb") as file:
+    file.write(response3.content)
 
 
-
-  
 # # Opening JSON file
 # f = open('data.json')
   

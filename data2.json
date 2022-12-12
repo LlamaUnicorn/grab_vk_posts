@@ -1,209 +1,84 @@
 {
   "response": {
-    "count": 943,
+    "count": 982,
     "items": [
       {
-        "id": 4765,
+        "id": 4847,
         "from_id": -10495776,
         "owner_id": -10495776,
-        "date": 1669273129,
+        "date": 1670846092,
         "marked_as_ads": 0,
         "post_type": "post",
-        "text": "ЧТОБЫ ПОЙМАТЬ РИТМ, НУЖНО ТОЛЬКО...ПРИЙТИ ЗАВТРА в ВОККИ\n \n25 ноября народный коллектив \"Учебный театр\" приглашает вас на класс-концерт \"Много ритмов из ничего\". \n \n| Ритм существует, бьётся и стучит в каждом человеке и во всей окружающей вселенной | \n \n📌 В класс-концерте зрители увидят, как можно фактически «из ничего» создавать музыкальные композиции, используя спичечные коробки, ножи, доски, газеты, пластиковые бутылки, карандаши, вёдра, печатные машинки и, конечно, собственное тело. \n \nВ этом класс-концерте будущие актёры пробуют свои возможности во всех видах уличных ритмов. Соединяя свои номера с песнями, пародиями и клоунадой, класс-концерт с помощью ритма превращается в яркое зрелище! \n \nРежиссёр-педагог, лауреат международных конкурсов, чемпион России по степу, обладатель «Золотой набойки» Владимир Кузнецов. \n \nВремя: 18:00 \nДата: 25 ноября \nМесто: ул.Василисина, 22 Б \n \nБИЛЕТЫ ПРОДОЮТСЯ и ПО ПУШКИНСКОЙ КАРТЕ! \nhttps://vmuzey.com/event/klass-koncert-mnogo-ritma-iz-nichego",
-        "is_pinned": 1,
+        "text": "Внимание!",
         "attachments": [
           {
             "type": "photo",
             "photo": {
               "album_id": -7,
-              "date": 1669273129,
-              "id": 457243639,
+              "date": 1670846092,
+              "id": 457243700,
               "owner_id": -10495776,
-              "access_key": "ab7bd152c7a1334e8b",
+              "access_key": "4ae68878212d7d5273",
+              "post_id": 4847,
               "sizes": [
                 {
-                  "height": 49,
+                  "height": 63,
                   "type": "s",
                   "width": 75,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=75x49&quality=95&sign=25e635f2765741fa4ea557747f60f4bc&c_uniq_tag=orEL_YphIgeGIU49l95GdhUnbDg1jj_DwAmPy3DY-M4&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=75x63&quality=95&sign=3d055d0395532710da2925b87c1d812b&c_uniq_tag=-GmCTYvvjiglr8atU5ecaVjB9TsKc8lpjuE7pXn8HXo&type=album"
                 },
                 {
-                  "height": 85,
+                  "height": 109,
                   "type": "m",
                   "width": 130,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=130x85&quality=95&sign=477b955b4cac757aaac7ef5bfaf42fda&c_uniq_tag=DEPPZyG1mLv00gWyonTBHG_BTHe3-7rxjw6cXevBEqo&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=130x109&quality=95&sign=61f15d864494a016f9bffc1b7f027979&c_uniq_tag=IlLoHbrza58LM6nVa4cUb4Y8xkLbHeE33c16-x4e9Hg&type=album"
                 },
                 {
-                  "height": 396,
+                  "height": 506,
                   "type": "x",
                   "width": 604,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=604x396&quality=95&sign=8dce8ef99c44b943a4a8991de668a699&c_uniq_tag=wX6oo9epjp-2UGeBAbq07VnayVLVU4qRpKY1ZdCJFKU&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=604x506&quality=95&sign=4acadc1bb6c77bc35ba547d4bceb41c9&c_uniq_tag=KdaX74KnC4fLXSuBJTBjrsa2S1juhPwxPw7rDesvU3o&type=album"
                 },
                 {
-                  "height": 529,
+                  "height": 676,
                   "type": "y",
                   "width": 807,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=807x529&quality=95&sign=671c7a857f2aa8bb16625eb401b5c0e8&c_uniq_tag=2GAOxj3pKZIVP6xmDHGR5S-P-nBLOhF7m_3qDrFhh9o&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=807x676&quality=95&sign=d6b88e4b6e4a014e6f9ae3bbdce81aab&c_uniq_tag=sseAVaQ9QaR6fiVjIkiHBoDKgewfcUSyGv2pQEskZPE&type=album"
                 },
                 {
-                  "height": 671,
+                  "height": 788,
                   "type": "z",
-                  "width": 1024,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=1024x671&quality=95&sign=fbe1c46638df8d8bba02be6f70a465a3&c_uniq_tag=yYZjPUXyTkFR0Pf_nllxm2YtYSkmEOkOdkMJ0l_kPbY&type=album"
+                  "width": 940,
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=940x788&quality=95&sign=4dd9dfd4910815abb820c36feb2b5cc4&c_uniq_tag=83CKZxM13J1VSZQwxGeg0rSqm7ojDnUtQmZZtPdUYGA&type=album"
                 },
                 {
-                  "height": 87,
+                  "height": 109,
                   "type": "o",
                   "width": 130,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=130x87&quality=95&crop=10,0,1003,671&sign=1d97995570de7cc1d1daf03347348fb2&c_uniq_tag=yKyhwL15x09gRmV9k6y9-EeGGTEHT0Q7__aDChP9qaI&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=130x109&quality=95&sign=61f15d864494a016f9bffc1b7f027979&c_uniq_tag=IlLoHbrza58LM6nVa4cUb4Y8xkLbHeE33c16-x4e9Hg&type=album"
                 },
                 {
-                  "height": 133,
+                  "height": 168,
                   "type": "p",
                   "width": 200,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=200x133&quality=95&crop=7,0,1009,671&sign=0ad3e80fcf919cbbd27a8e23efdf9754&c_uniq_tag=HKlcnwwz1B-KemCwkqbr8vzfUrTe0TqBn4cofmmjjdU&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=200x168&quality=95&sign=5c54f07a121eadd7eea671bc37130ce6&c_uniq_tag=CyhBZ7At_VUXuDmc3pQg8jt3ru0hMTfoM9_KFSo77j0&type=album"
                 },
                 {
-                  "height": 213,
+                  "height": 268,
                   "type": "q",
                   "width": 320,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=320x213&quality=95&crop=8,0,1008,671&sign=fdf9cf85a225aed8bcc5c4571edc1916&c_uniq_tag=r5SmDXW70YBIV-fvF4xNcLk9VdczCxp0YiN0aaYO6V0&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=320x268&quality=95&sign=858c414aa3ef5a67462b8150b92ab352&c_uniq_tag=LBqeJQ_PKKv-DYyZmasVVMZ7_CxwXgD32KfZ5jBXvKY&type=album"
                 },
                 {
-                  "height": 340,
+                  "height": 428,
                   "type": "r",
                   "width": 510,
-                  "url": "https://sun1-92.userapi.com/impg/UIIBPhf1zAlf9ZH4bDtOHM3fzrqpxUQ6McSK0Q/-AfA2CWW55Y.jpg?size=510x340&quality=95&crop=9,0,1006,671&sign=25b7f049ff92eccdf0ee34f90c3723a4&c_uniq_tag=IUcbDCYyxGkmVbKilWrulc-wRKzewbnWWT2ffArls78&type=album"
+                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=510x428&quality=95&sign=2e0b3705c435d67517c07739723c9680&c_uniq_tag=CLOFFAp_Y4n3c9wWqYl7RYTH-GrtEXEjpcjETxcet6w&type=album"
                 }
               ],
               "text": "",
               "user_id": 100,
               "has_tags": false
-            }
-          },
-          {
-            "type": "photo",
-            "photo": {
-              "album_id": -7,
-              "date": 1669273129,
-              "id": 457243640,
-              "owner_id": -10495776,
-              "access_key": "182bb663a10ebca355",
-              "sizes": [
-                {
-                  "height": 48,
-                  "type": "s",
-                  "width": 75,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=75x48&quality=95&sign=1aca1b30bf39579ec1961eda1cf706a1&c_uniq_tag=6SSRfOZ8wnpgFrCcPSu4LWlT2BhdmXJH0Ds5kS6wqOY&type=album"
-                },
-                {
-                  "height": 84,
-                  "type": "m",
-                  "width": 130,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=130x84&quality=95&sign=5c27a3cd461cf2dd8c3ad4ed56f39830&c_uniq_tag=Ljq313MAgnS8f8IxGjNPp9XnvBX6SNjxgQzwawAQteo&type=album"
-                },
-                {
-                  "height": 390,
-                  "type": "x",
-                  "width": 604,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=604x390&quality=95&sign=fcb4879b0d8aefea61776fe10d9fc30b&c_uniq_tag=Mkb15Vo8AQ7AoEh_iUIl3A647J9agz77cYOMYGpcvF0&type=album"
-                },
-                {
-                  "height": 522,
-                  "type": "y",
-                  "width": 807,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=807x522&quality=95&sign=b2537e55ca581c831dd3c01d433faeb0&c_uniq_tag=J7-hSQOoKGL-CztqAGBukdbt0jnGig5CahYxqu9DbyQ&type=album"
-                },
-                {
-                  "height": 662,
-                  "type": "z",
-                  "width": 1024,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=1024x662&quality=95&sign=2ff5d0078106859b6724a83f6726b12a&c_uniq_tag=j2HYN9PbGAq-uQUgukYwk9t2Ct9syyOgZinXQ5FADSc&type=album"
-                },
-                {
-                  "height": 87,
-                  "type": "o",
-                  "width": 130,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=130x87&quality=95&crop=17,0,989,662&sign=0beff80f109fffdb6ae16239bb9602ff&c_uniq_tag=w2DngJRpVqFlJSgQmsbEJKcJrm727GKh3SGjIQOs420&type=album"
-                },
-                {
-                  "height": 133,
-                  "type": "p",
-                  "width": 200,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=200x133&quality=95&crop=14,0,995,662&sign=141b7ca1330ca5e5d03b53a61227509f&c_uniq_tag=paQPolZjkMhTUZL2DYhyK-euTdtA0R9NWyi8AWXH4JM&type=album"
-                },
-                {
-                  "height": 213,
-                  "type": "q",
-                  "width": 320,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=320x213&quality=95&crop=14,0,995,662&sign=f5976974a4ca98794e4fb93ee3be4608&c_uniq_tag=wFHY5HHSFLV5YVikFySQrvgWMMVpdgaGXyPI-1kwfFc&type=album"
-                },
-                {
-                  "height": 340,
-                  "type": "r",
-                  "width": 510,
-                  "url": "https://sun1-99.userapi.com/impg/VfeH1lB0xQGAsULxgI_vcDvBgAGIGMSWJsNS8w/HHM72MJ-HlQ.jpg?size=510x340&quality=95&crop=15,0,993,662&sign=17a6b2726990ff71e2eccc2e3c3d67dd&c_uniq_tag=jipkb90SiZafXSFbYR6PJZjUvCGHFrAwmrhd6HR9x88&type=album"
-                }
-              ],
-              "text": "",
-              "user_id": 100,
-              "has_tags": false
-            }
-          },
-          {
-            "type": "link",
-            "link": {
-              "url": "https://vmuzey.com/event/klass-koncert-mnogo-ritma-iz-nichego",
-              "title": "ВМузей - Купить онлайн билет на событие Класс-концерт «Много ритма из ничего»",
-              "description": "Класс-концерт «Много ритма из ничего» создан при участии студентов 4 курса специальности \"Актер драматического театра и кино\", руководитель курса народный артист России Н.А. Горохов. Зрители увидят, как можно фактически из ничего создавать музыкальные композиции, используя спичечные коробки, ножи, доски, газеты, пластиковые бутылки, карандаши, ведра, печатные машинки и, конечно, собственное тело. На класс-концерте будущие актеры пробуют свои возможности во всех видах уличных ритмов. Соединяя свои номера с песнями, пародиями и клоунадой, класс-концерт с помощью ритма превращается в яркое зрелище! Режиссер-педагог – лауреат международных конкурсов, чемпион России по степу, обладатель «Золотой набойки» Владимир Кузнецов.",
-              "target": "internal",
-              "photo": {
-                "album_id": -26,
-                "date": 1669273129,
-                "id": 457414110,
-                "owner_id": 2000049446,
-                "sizes": [
-                  {
-                    "height": 240,
-                    "type": "temp",
-                    "width": 537,
-                    "url": "https://sun1-25.userapi.com/6wc2nYsWwdEJgHaQqNZJgEhF-GnV9dzMI5n-vA/EQnySR54pKc.jpg"
-                  },
-                  {
-                    "height": 35,
-                    "type": "s",
-                    "width": 75,
-                    "url": "https://sun1-90.userapi.com/impg/WZa8cN07LaN3kLSeAWiHAOqUMhDuqqQRVbSMEw/xAaMNXyFbAo.jpg?size=75x35&quality=96&crop=11,0,514,240&sign=4bfd581b1fcebd2b6bc7fad59a9467e5&c_uniq_tag=nkTtuDTb4dsoKwjn0OxzdNt5ReqIq0py6IadOVQTt4I&type=share"
-                  },
-                  {
-                    "height": 80,
-                    "type": "m",
-                    "width": 130,
-                    "url": "https://sun1-90.userapi.com/impg/WZa8cN07LaN3kLSeAWiHAOqUMhDuqqQRVbSMEw/xAaMNXyFbAo.jpg?size=130x80&quality=96&crop=73,0,390,240&sign=4a2a710907a3c63b03221b20b9cc4fb6&c_uniq_tag=AxVHIfckbDFAj5Duju9066Ar9haA2Wzto5YnSSRJnQ0&type=share"
-                  },
-                  {
-                    "height": 80,
-                    "type": "x",
-                    "width": 150,
-                    "url": "https://sun1-90.userapi.com/impg/WZa8cN07LaN3kLSeAWiHAOqUMhDuqqQRVbSMEw/xAaMNXyFbAo.jpg?size=150x80&quality=96&crop=43,0,450,240&sign=377b0ddcc13b7ce75ba96ee46472eb76&c_uniq_tag=Ns8LDCPOyW4XOxtqJ0upHnehwzufAVGzDe-BGpe2uTg&type=share"
-                  },
-                  {
-                    "height": 140,
-                    "type": "p",
-                    "width": 260,
-                    "url": "https://sun1-90.userapi.com/impg/WZa8cN07LaN3kLSeAWiHAOqUMhDuqqQRVbSMEw/xAaMNXyFbAo.jpg?size=260x140&quality=96&crop=45,0,446,240&sign=e297cdd04ef2d3bf2d80dee4872a285a&c_uniq_tag=JYxHT1Rmfli4e_Kcwmm0HlVJXz9vVY5kEBLujkKpey0&type=share"
-                  },
-                  {
-                    "height": 240,
-                    "type": "l",
-                    "width": 537,
-                    "url": "https://sun1-90.userapi.com/impg/WZa8cN07LaN3kLSeAWiHAOqUMhDuqqQRVbSMEw/xAaMNXyFbAo.jpg?size=537x240&quality=96&sign=3a1966d9d4833e7b7b27bb9d7eab1cbd&c_uniq_tag=jHH42zm_-sQ1C3o-HzLzRNB7VkbJBslXKLodGMPYoXY&type=share"
-                  }
-                ],
-                "text": "",
-                "user_id": 100,
-                "has_tags": false
-              }
             }
           }
         ],
@@ -217,23 +92,22 @@
         },
         "likes": {
           "can_like": 1,
-          "count": 17,
+          "count": 18,
           "user_likes": 0,
           "can_publish": 1
         },
         "reposts": {
-          "count": 2,
+          "count": 1,
           "user_reposted": 0
         },
         "views": {
-          "count": 472
+          "count": 418
         },
         "donut": {
           "is_donut": false
         },
         "short_text_rate": 0.8,
-        "carousel_offset": 0,
-        "hash": "qkbNE6gHO16nB0kG7A"
+        "hash": "f4aBvmiV-Isqy4l3Yw"
       }
     ]
   }
