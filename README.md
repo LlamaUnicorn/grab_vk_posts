@@ -13,5 +13,3 @@ Here are some potential areas for improvement:
     The code currently relies on an environment variable TOKEN to authenticate with the VK API. It might be a good idea to consider using an alternative method of storing and retrieving sensitive information such as API keys.
     The code currently saves the image to a fixed file name ("sample_image3.png"). It might be a good idea to consider using a more descriptive or unique file name to avoid overwriting existing files.
     The code currently saves the image to the current working directory. It might be a good idea to consider specifying a different location to save the image, or to make the location configurable through function arguments or some other means.
-
-I hope these suggestions are helpful! Let me know if you have any questions or if you would like further guidance.
