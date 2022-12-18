@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Set the number of posts to get and the offset (if applicable)
 NUMBER_OF_POSTS_TO_GET = 1
-OFFSET = 5
+OFFSET = 3
 
 # Get the access token from the environment variable
 ACCESS_TOKEN = os.environ['TOKEN']

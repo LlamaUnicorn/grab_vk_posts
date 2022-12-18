@@ -1,79 +1,73 @@
 {
   "response": {
-    "count": 982,
+    "count": 994,
     "items": [
       {
-        "id": 4847,
+        "id": 4875,
         "from_id": -10495776,
         "owner_id": -10495776,
-        "date": 1670846092,
+        "date": 1671178189,
         "marked_as_ads": 0,
         "post_type": "post",
-        "text": "Внимание!",
+        "text": "8 декабря 2022 г. в г. Юрьев-Польский проходила XX областная Спартакиада по плаванию, где студентки нашего Колледжа заняли 2 место. \nПоздравляем наших девушек с Победой, благодарим наших юношей за участие!\nОтдельное спасибо преподавателю физической культуры Д.Н. Красовитову.",
         "attachments": [
           {
             "type": "photo",
             "photo": {
               "album_id": -7,
-              "date": 1670846092,
-              "id": 457243700,
+              "date": 1671178189,
+              "id": 457243710,
               "owner_id": -10495776,
-              "access_key": "4ae68878212d7d5273",
-              "post_id": 4847,
+              "access_key": "801bd81ce198c9e075",
+              "post_id": 4875,
               "sizes": [
                 {
-                  "height": 63,
+                  "height": 75,
                   "type": "s",
                   "width": 75,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=75x63&quality=95&sign=3d055d0395532710da2925b87c1d812b&c_uniq_tag=-GmCTYvvjiglr8atU5ecaVjB9TsKc8lpjuE7pXn8HXo&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=75x75&quality=95&sign=5f1ad6c10e0a563634b625fddd6f3326&c_uniq_tag=KRthsJ2ECBt80Kn7clrVbwIzj2V7BcWSxKyG0HjwoG8&type=album"
                 },
                 {
-                  "height": 109,
+                  "height": 130,
                   "type": "m",
                   "width": 130,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=130x109&quality=95&sign=61f15d864494a016f9bffc1b7f027979&c_uniq_tag=IlLoHbrza58LM6nVa4cUb4Y8xkLbHeE33c16-x4e9Hg&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=130x130&quality=95&sign=7cae237610f5fc1d0898db40d054f736&c_uniq_tag=k_Fu1XE-AkWE_LcSC6P6G2T26cMUENImPFc5pb_xxpI&type=album"
                 },
                 {
-                  "height": 506,
+                  "height": 604,
                   "type": "x",
                   "width": 604,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=604x506&quality=95&sign=4acadc1bb6c77bc35ba547d4bceb41c9&c_uniq_tag=KdaX74KnC4fLXSuBJTBjrsa2S1juhPwxPw7rDesvU3o&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=604x604&quality=95&sign=d1776d1675fddd9b57555ec23f72641f&c_uniq_tag=h33pIK0aIUpGmHHtnaS7Hstlk0U3r6vSU7SjlGLeyXI&type=album"
                 },
                 {
-                  "height": 676,
+                  "height": 755,
                   "type": "y",
-                  "width": 807,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=807x676&quality=95&sign=d6b88e4b6e4a014e6f9ae3bbdce81aab&c_uniq_tag=sseAVaQ9QaR6fiVjIkiHBoDKgewfcUSyGv2pQEskZPE&type=album"
+                  "width": 755,
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=755x755&quality=95&sign=70d71f6a99c541edbb6802e75ec0038e&c_uniq_tag=dwcLa39p0b__JVn5pHULqFq0p4KCRYkwNPrlQgzJ1dc&type=album"
                 },
                 {
-                  "height": 788,
-                  "type": "z",
-                  "width": 940,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=940x788&quality=95&sign=4dd9dfd4910815abb820c36feb2b5cc4&c_uniq_tag=83CKZxM13J1VSZQwxGeg0rSqm7ojDnUtQmZZtPdUYGA&type=album"
-                },
-                {
-                  "height": 109,
+                  "height": 130,
                   "type": "o",
                   "width": 130,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=130x109&quality=95&sign=61f15d864494a016f9bffc1b7f027979&c_uniq_tag=IlLoHbrza58LM6nVa4cUb4Y8xkLbHeE33c16-x4e9Hg&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=130x130&quality=95&sign=7cae237610f5fc1d0898db40d054f736&c_uniq_tag=k_Fu1XE-AkWE_LcSC6P6G2T26cMUENImPFc5pb_xxpI&type=album"
                 },
                 {
-                  "height": 168,
+                  "height": 200,
                   "type": "p",
                   "width": 200,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=200x168&quality=95&sign=5c54f07a121eadd7eea671bc37130ce6&c_uniq_tag=CyhBZ7At_VUXuDmc3pQg8jt3ru0hMTfoM9_KFSo77j0&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=200x200&quality=95&sign=ff5aabb696c7da943889e3c10455de3e&c_uniq_tag=0nepE2HA5nvnv6Jvxh_yiFybVNfeVYa2bQ5_hNA5onI&type=album"
                 },
                 {
-                  "height": 268,
+                  "height": 320,
                   "type": "q",
                   "width": 320,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=320x268&quality=95&sign=858c414aa3ef5a67462b8150b92ab352&c_uniq_tag=LBqeJQ_PKKv-DYyZmasVVMZ7_CxwXgD32KfZ5jBXvKY&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=320x320&quality=95&sign=98564ed0b178af099a2bfdc9bd907248&c_uniq_tag=OYvVsODa6edB_tFwGKGgT-hnwZOT9yAZtqGnNkfO3S0&type=album"
                 },
                 {
-                  "height": 428,
+                  "height": 510,
                   "type": "r",
                   "width": 510,
-                  "url": "https://sun1-55.userapi.com/impg/inlMaHr9FRqP8_NQdAaoZh06UKqzImEVRaSqfg/Z_vH8Zp7TBg.jpg?size=510x428&quality=95&sign=2e0b3705c435d67517c07739723c9680&c_uniq_tag=CLOFFAp_Y4n3c9wWqYl7RYTH-GrtEXEjpcjETxcet6w&type=album"
+                  "url": "https://sun1-84.userapi.com/impg/_DLrQiR64mJcEleFImKgM3FzPrGMlhZIG4HhNg/foGMWNrKT9g.jpg?size=510x510&quality=95&sign=9675640f7132502dd466e3c1829b1174&c_uniq_tag=btmcavCF2_xoMYTsOdG_m1ZMxVv3ZGsAktiMZpMNaeo&type=album"
                 }
               ],
               "text": "",
@@ -87,27 +81,27 @@
         },
         "comments": {
           "can_post": 1,
-          "count": 0,
+          "count": 1,
           "groups_can_post": true
         },
         "likes": {
           "can_like": 1,
-          "count": 18,
+          "count": 129,
           "user_likes": 0,
           "can_publish": 1
         },
         "reposts": {
-          "count": 1,
+          "count": 5,
           "user_reposted": 0
         },
         "views": {
-          "count": 418
+          "count": 5029
         },
         "donut": {
           "is_donut": false
         },
         "short_text_rate": 0.8,
-        "hash": "f4aBvmiV-Isqy4l3Yw"
+        "hash": "m7VNI-rN5Hi7AALFlw"
       }
     ]
   }
