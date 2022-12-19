@@ -10,7 +10,7 @@ os.makedirs(folder_name)
 
 my_secret = os.environ['TOKEN']
 NUMBER_OF_POSTS_TO_GET = 1
-OFFSET = 7
+OFFSET = 1
 
 # Disabled to prevent reaching API-calls limit
 # Uncomment when it's finished
