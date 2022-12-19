@@ -5,7 +5,7 @@ import datetime
 
 # Create a folder with current date and time
 now = datetime.datetime.now()
-folder_name = now.strftime("%Y-%m-%d_%H-%M")
+folder_name = now.strftime("%Y-%m-%d_%H-%M-%S")
 os.makedirs(folder_name)
 
 my_secret = os.environ['TOKEN']
